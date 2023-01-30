@@ -1,0 +1,52 @@
+body{
+    margin:0;
+}
+h1{
+ color:green ;
+    text-align: center;
+}
+.username{
+    margin-left: 5px;
+    text-align: center;
+    font-size: 5vh;
+}
+p{
+    text-align: center;
+    font-size: 5vh;
+}
+.input-container{
+text-align: center;
+}
+#para{
+text-align: left;
+padding-left: 10px;
+
+}
+#clear{
+    margin-left: 28em;
+    
+}
+#btn2{
+    margin-top: 2em;
+}
+#input-container2,.container
+{
+    border: 2px solid green;
+    box-sizing: border-box;
+    width: 500px;
+    height: 250px;
+    margin: 20px;
+    display: none;
+    
+}
+
+/* .detail-btn{
+    text-align: center;
+    margin-top: 190px;
+    
+}
+#Details{
+    position: fixed;
+    margin-right: 350px;
+    
+} */
